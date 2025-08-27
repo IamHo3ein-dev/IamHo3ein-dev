@@ -1,7 +1,8 @@
 # 👋 Hi there
 
 <p align="center">
-  <img src="https://github.com/IamHo3ein-dev/IamHo3ein-dev/edit/master/image/banner.jpg" alt="Banner" width="80%" />
+  <img src="[https://github.com/IamHo3ein-dev/IamHo3ein-dev/edit/master/image/banner.jpg](https://raw.githubusercontent.com/IamHo3ein-dev/IamHo3ein-dev/master/image/banner.jpg
+)" alt="Banner" width="80%" />
   <!-- Replace the above link with your custom banner if you create one! -->
 </p>
 
